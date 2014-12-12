@@ -1,0 +1,15 @@
+# Site settings
+title: Donal Heidenblad
+email: dheidenb@umd.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Donal Heidenblad is a PhD student at the College of Information Studies at
+  the University of Maryland. His research explores how design teams discuss 
+  ethics and values during the development of software.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://donalus.github.io" # the base hostname & protocol for your site
+twitter_username: donal_h
+github_username:  donalus
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
