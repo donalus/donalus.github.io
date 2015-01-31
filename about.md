@@ -23,6 +23,7 @@ discourse affects material change.
 ##Public GPG Key
 Below is my 2048-bit public encrytion key for dheidenb@umd.edu.
 
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
 
@@ -65,6 +66,7 @@ y3ElfNrz1zenVPmabH8GTfaq40oSnmT4UAFoD8DHy97IRthnr5GFYXd15oxlUFZJ
 m/8rD+J8BYHkPLN9HKK3qf/c7H0SbcIQfOexJ5FAPyEVa8SwZ5U=
 =StiA
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
 
 
 [College of Information Studies]: (http://ischool.umd.edu)
