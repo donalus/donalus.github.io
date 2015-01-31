@@ -12,4 +12,4 @@ github_username:  donalus
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
