@@ -3,7 +3,7 @@ layout: page
 title: First Year Review
 permalink: /first-year-review/
 date: 2013-12-01 09:30:00
-fyr: true
+hidefromnav: true
 ---
 
 NAVIGATION
