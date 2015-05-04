@@ -14,6 +14,6 @@ Unmodified Applications:
  
 Modified or Created Utilities:
 
- * [gg_scraper - original](https://gitlab.com/mcepl/gg_scraper) | [gg_scraper - modified]() [coming soon]
+ * [gg_scraper - original](https://gitlab.com/mcepl/gg_scraper) : [gg_scraper - modified]() [coming soon]
  * [AOSP Repo Tool for CVSAnalY]() [coming soon]
  * [R Analysis Code Source]() [coming soon]
