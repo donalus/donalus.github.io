@@ -2,7 +2,7 @@
 layout: page
 title: Supplementary Documentation
 permalink: /first-year-review/supplementary-documentation/
-fyr: true
+hidefromnav: true
 ---
 [First Year Review Home](/first-year-review/)
 

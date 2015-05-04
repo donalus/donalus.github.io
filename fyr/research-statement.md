@@ -2,7 +2,7 @@
 layout: page
 title: Research Statement
 permalink: /first-year-review/research-statement/
-fyr: true
+hidefromnav: true
 ---
 [First Year Review Home](/first-year-review/)
 

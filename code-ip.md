@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: Applications Used
 permalink: /code-ip/
 hidefromnav: true
+fyr: false
 ---
 
 Unmodified Applications:

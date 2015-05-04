@@ -2,7 +2,7 @@
 layout: page
 title: Course of Study
 permalink: /first-year-review/course-of-study/
-fyr: true
+hidefromnav: true
 ---
 [First Year Review Home](/first-year-review/)
 

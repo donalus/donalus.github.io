@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /first-year-review/curriculum-vitae/
-fyr: true
+hidefromnav: true
 ---
 [First Year Review Home](/first-year-review/)
 
