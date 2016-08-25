@@ -3,11 +3,7 @@ layout: post
 title:  "Talking around science"
 date:   2014-12-12 18:09:37
 categories: meta updates
-excerpt: > Laying out a mission for myself in the hopes of turning this into a
-sustainable enterprise. I discuss my approach to this blog and its relationship
-to my scientific pursuits. Mostly I am just trying to get past the discomfort
-of seeing my name multiple times on a single page and becoming comfortable
-talking about myself.
+excerpt_separator: <!--more-->
 ---
 Maintaining a presence on the internet has always been a struggle for me. Throughout
 the many iterations of social media, I have failed to be more than a consumer. There

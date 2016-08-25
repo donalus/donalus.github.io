@@ -8,7 +8,7 @@ I am currently a PhD candidate in the [College of Information Studies] at the
 [University of Maryland]. I have a MS in Information Systems from
 [UMBC] and a BA in Philosophy from [Ripon College]. My professional career has
 included many different technical roles including technical writer, programmer,
- software architect, and product manager.
+software architect, and product manager.
 
 I am a member of the [Ethics and Values in Design lab] that my advisor
 Associate Professor [Katie Shilton] leads. I also belong to the
