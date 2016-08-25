@@ -3,9 +3,7 @@ layout: post
 title:  "Writing and Writing and Writing Some More"
 date:   2016-08-24 15:58:47
 categories: meta updates
-excerpt: Getting a PhD and being an academic requires writing and writing isn't
-something that I am terribly good at. I used to think I was, but now it feels
-like a slog. So how do we fix this?
+excerpt: Getting a PhD and being an academic requires writing and writing isn't something that I am terribly good at. I used to think I was, but now it feels like a slog. So how do we fix this?
 ---
 Getting a PhD and being an academic requires writing and writing isn't
 something that I am terribly good at. I used to think I was, but now it feels
