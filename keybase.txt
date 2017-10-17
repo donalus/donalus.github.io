@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/donalus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://donal.us
+  * I am donalus (https://keybase.io/donalus) on keybase.
+  * I have a public key ASAM6P3E8LIkzreWJ_WsGu64jBa_1qY9Q6ETs5LBmlBPvAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200ce8fdc4f0b224ceb79627f5ac1aeeb88c16bfd6a63d43a113b392c19a504fbc0a",
+      "host": "keybase.io",
+      "kid": "01200ce8fdc4f0b224ceb79627f5ac1aeeb88c16bfd6a63d43a113b392c19a504fbc0a",
+      "uid": "3e84b525206469c2ed8cb546880fc819",
+      "username": "donalus"
+    },
+    "merkle_root": {
+      "ctime": 1508247543,
+      "hash": "5cdb525157c10aa005a0c35e8bc2bc51a194f039db23dcd1bb96d2bdff5912157f59782368b26cc8ae784238a86f11fcf59eb25e7184343f43a75709986904f6",
+      "hash_meta": "893bd7333e5db55096b4a105350ea670189fe1e63037fdfc0982d2454649e1fe",
+      "seqno": 1590797
+    },
+    "service": {
+      "hostname": "donal.us",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508247555,
+  "expire_in": 504576000,
+  "prev": "7148ab4b66faec2b7f1cdbe6c568b629e796a270dc280ddeccf82f57702c1cdb",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDOj9xPCyJM63lif1rBruuIwWv9amPUOhE7OSwZpQT7wKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGNlOGZkYzRmMGIyMjRjZWI3OTYyN2Y1YWMxYWVlYjg4YzE2YmZkNmE2M2Q0M2ExMTNiMzkyYzE5YTUwNGZiYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGNlOGZkYzRmMGIyMjRjZWI3OTYyN2Y1YWMxYWVlYjg4YzE2YmZkNmE2M2Q0M2ExMTNiMzkyYzE5YTUwNGZiYzBhIiwidWlkIjoiM2U4NGI1MjUyMDY0NjljMmVkOGNiNTQ2ODgwZmM4MTkiLCJ1c2VybmFtZSI6ImRvbmFsdXMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDgyNDc1NDMsImhhc2giOiI1Y2RiNTI1MTU3YzEwYWEwMDVhMGMzNWU4YmMyYmM1MWExOTRmMDM5ZGIyM2RjZDFiYjk2ZDJiZGZmNTkxMjE1N2Y1OTc4MjM2OGIyNmNjOGFlNzg0MjM4YTg2ZjExZmNmNTllYjI1ZTcxODQzNDNmNDNhNzU3MDk5ODY5MDRmNiIsImhhc2hfbWV0YSI6Ijg5M2JkNzMzM2U1ZGI1NTA5NmI0YTEwNTM1MGVhNjcwMTg5ZmUxZTYzMDM3ZmRmYzA5ODJkMjQ1NDY0OWUxZmUiLCJzZXFubyI6MTU5MDc5N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkb25hbC51cyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDgyNDc1NTUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzE0OGFiNGI2NmZhZWMyYjdmMWNkYmU2YzU2OGI2MjllNzk2YTI3MGRjMjgwZGRlY2NmODJmNTc3MDJjMWNkYiIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBD1EPQ7wJqxdGvRSDqe/2pvuyoDInb04D/vmnHShKCYzfXKBenXjxCcRnRE6wYe7TTbJgXmIloJmCPciRb83cLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgLPazu0hu42SPcv1qTqhxaYDhseSAx/V11rrnsLVyziCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/donalus
+
+==================================================================
