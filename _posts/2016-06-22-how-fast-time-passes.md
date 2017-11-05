@@ -2,7 +2,7 @@
 layout: post
 title:  "How Fast Time Goes"
 date:   2016-06-22 10:37:37
-categories: meta updates
+categories: cancer meta updates
 excerpt_separator: <!--more-->
 ---
 
