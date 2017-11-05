@@ -2,8 +2,7 @@
  * Site header
  */
 .site-header {
-    //border-top: 5px solid $grey-color-dark;
-    //border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid $visited-links;
     background-color: $brand-color;
     color: $visited-links;
     min-height: 56px;
@@ -116,6 +115,7 @@
   text-align: center;
   padding-top: 1pt;
   padding-bottom: 1pt;
+  margin-bottom: 10pt;
 }
 
 .footer-heading {
