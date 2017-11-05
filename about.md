@@ -29,6 +29,8 @@ make electronics stuff. Mostly I try to keep this focused around my
 Often I get a little distracted and end up building weird useless things with
 blinky lights.
 
+Thinking you might want to hire me? Check out my [resume].
+
 [College of Information Studies]: http://ischool.umd.edu
 [University of Maryland]: http://www.umd.edu
 [UMBC]: http://onlinems.umbc.edu
@@ -39,3 +41,4 @@ blinky lights.
 [Information Policy and Access Center (iPAC)]: http://ipac.umd.edu/
 [Acute Promyelocytic Leukemia]: https://en.wikipedia.org/wiki/Acute_promyelocytic_leukemia
 [Amateur Radio]: http://www.arrl.org/what-is-amateur-radio
+[resume]: https://dl.dropboxusercontent.com/s/6qsrax3qtw0w1hs/dsh_cv.pdf
