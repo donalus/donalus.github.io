@@ -101,8 +101,13 @@
 .site-footer a {
   color: $grey-color-dark;
 }
-.site-footer a:visited {
+
+.site-footer a:hover {
   color: $grey-color-light;
+}
+
+.site-footer a:visited {
+  color: $grey-color;
 }
 
 .footer-bar {
