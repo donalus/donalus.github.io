@@ -23,11 +23,11 @@ classrooms and professional workshops.
 
 Oh, yeah. I am a cancer survivor (Acute Promyelocytic Leukemia).
 
-[College of Information Studies]: (http://ischool.umd.edu)
-[University of Maryland]: (http://www.umd.edu)
-[UMBC]: (http://onlinems.umbc.edu)
-[Ripon College]: (http://www.ripon.edu)
-[Ethics and Values in Design lab]: (http://evidlab.umd.edu)
-[Katie Shilton]: (http://terpconnect.umd.edu/~kshilton/)
-[Center for the Advanced Study of Communities and Information (CASCI)]: (http://casci.umd.edu)
-[Information Policy and Access Center (iPAC)]: (http://ipac.umd.edu/)
+[College of Information Studies]: http://ischool.umd.edu
+[University of Maryland]: http://www.umd.edu
+[UMBC]: http://onlinems.umbc.edu
+[Ripon College]: http://www.ripon.edu
+[Ethics and Values in Design lab]: http://evidlab.umd.edu
+[Katie Shilton]: http://terpconnect.umd.edu/~kshilton/
+[Center for the Advanced Study of Communities and Information (CASCI)]: http://casci.umd.edu
+[Information Policy and Access Center (iPAC)]: http://ipac.umd.edu/
