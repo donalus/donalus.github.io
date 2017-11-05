@@ -28,6 +28,7 @@
 .footer-bar {
   background-color: $brand-color;
   color: $visited-links;
+  text-align: center;
 }
 
 .site-nav {
@@ -39,7 +40,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $visited-links;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -99,7 +100,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    //border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
