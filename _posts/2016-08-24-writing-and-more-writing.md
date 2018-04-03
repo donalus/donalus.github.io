@@ -3,6 +3,7 @@ layout: post
 title:  "Writing and Writing and Writing Some More"
 date:   2016-08-24 15:58:47
 categories: meta updates
+published: false
 excerpt_separator: <!--more-->
 ---
 Getting a PhD and being an academic requires writing and writing isn't
