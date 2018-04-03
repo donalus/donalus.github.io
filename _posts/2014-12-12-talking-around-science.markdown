@@ -3,6 +3,7 @@ layout: post
 title:  "Talking around science"
 date:   2014-12-12 18:09:37
 categories: meta updates
+published: false
 excerpt_separator: <!--more-->
 ---
 Maintaining a presence on the internet has always been a struggle for me. Throughout
