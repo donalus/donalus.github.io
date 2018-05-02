@@ -1,16 +1,16 @@
 theme: jekyll-theme-cayman
 
 # Setup
-title:        Irreproducible Results
-tagline:      A technology and data blog.
+title:        Project or Site name
+tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
-author:       
-  name:        Donal Heidenblad
-   url:        https://irreproducibleresults.com 
+author:
+  name:       Donal Heidenblad
+  url:        https://irreproducibleresults.com 
 
 # Gems
 gems:
