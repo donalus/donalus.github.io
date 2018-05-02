@@ -10,7 +10,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Donal Heidenblad
-  url:        https://irreproducibleresults.com 
+  url:        /about.html 
 
 # Gems
 gems:
