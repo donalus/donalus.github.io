@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Irreproducible Results
+tagline:      A data and techology blog.
 baseurl:      ""
 paginate:     1
 locale:       "en"
