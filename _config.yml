@@ -1,1 +1,19 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Irreproducible Results
+tagline:      A technology and data blog.
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:       Donal Heidenblad
+  url:        https://irreproducibleresults.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
