@@ -8,8 +8,9 @@ paginate:     1
 locale:       "en"
 
 # About/contact
-author:       Donal Heidenblad
-  url:        https://irreproducibleresults.com 
+author:       
+  name:        Donal Heidenblad
+   url:        https://irreproducibleresults.com 
 
 # Gems
 gems:
