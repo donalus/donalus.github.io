@@ -11,9 +11,9 @@ that these new tools are amazing. They allow us to prepare data for analysis mor
 quickly, repeatably, and reliably. 
 
 These are the tools I have currenlty experimented with:
-* OpenRefine: [http://openrefine.org/]
-* Trifacta Wrangler: [https://www.trifacta.com/]
-* Tableau Prep: [https://www.tableau.com/products/prep]
+* (OpenRefine)[http://openrefine.org/]
+* (Trifacta Wrangler)[https://www.trifacta.com/]
+* (Tableau Prep)[https://www.tableau.com/products/prep]
 
 Before I was introduced to OpenRefine, I would immediate reach for Python, Scala, or 
 some other nice language for building a pipeline to transform the data. In the class 
