@@ -1,9 +1,10 @@
 ---
 layout: default
-title:  "Our New Wealth of Data Cleaning Tools"
+title:  "A New Wealth of Data Cleaning Tools"
 date:   2018-05-02 09:34:00
-categories: main, data-cleaning, data-science, data, tools
+categories: main
 ---
+# A New Wealth of Data Cleaning Tools
 
 This should start with "back in my day" in order to convey a curdgeony feeling towards 
 new-fangled tools that allow us to clean data more easily. The problem that approach is 
