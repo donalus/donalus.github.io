@@ -1,8 +1,8 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Setup
-title:        Irreproducible Results
-tagline:      A data and techology blog.
+title:        Donal Heidenblad
+tagline:      Instructor and Technologist
 baseurl:      ""
 paginate:     1
 locale:       "en"
