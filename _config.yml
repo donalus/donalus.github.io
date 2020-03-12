@@ -10,7 +10,7 @@ locale:       "en"
 
 site:
   google_analytics: UA-49219513-1
-  logo: donal_square.jpg
+  logo: /assets/img/donal_square.jpg
   show_downloads:   "no"
 
 # About/contact
