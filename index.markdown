@@ -4,31 +4,46 @@
 
 layout: default
 ---
-## Focussed on Learning
+## A Focus on Learning
 
 I am a Lecturer at the 
-[College of Information Studies, University of Maryland](https://ischool.umd.edu) 
-where I seek to guide students through learning about data, programming, and 
-information systems.
+[College of Information Studies, University of Maryland](https://ischool.umd.edu).
+I teach courses on data cleaning, programming, and information systems. I believe 
+in weaving an emphasis on ethics and social justice throughout the material to 
+emphasize the social impacts of technology and encourage intentional, critical design.
 
-### Data
+### Highlighted Courses
 
+I teach a variety of courses because of my professional experience and research 
+interests. Here are a few that I've chosen to highlight.
 
-### Technology
+#### INST346 Technologies, Infrastructure and Architecture
 
+This is a required course within the major. It has a very confusing name because 
+it is an attempt to create a common technical foundation that students can rely
+on in future courses. The course explores computer hardware, software, networks, 
+and modern information systems emerge from those components.
 
-### Programming
+#### INST447 Data Sources and Manipulation
 
+Statistics, analytics, and data science courses often focus on the "fun" part 
+of analysis where we answer questions from the data. This course focuses on 
+the preparation and exploration of data before analysis can start. It specifically 
+prepares students to identify and address problems in the data, combine datasets to 
+be able to answer more interesting questions, and how to document and manage these
+datasets so that they can be evaluated and reused for other purposes.
 
-## Classes Taught
+#### INFM700 Information Architectures
 
-### INST346
+Information Architecture often focuses only on the user-facing aspects of information, 
+like navigation and page structure. This course seeks to integrate IA within the entire 
+data management process of an enterprise. It also seeks to address the challenges of 
+cross-channel architectures and voice user interfaces.
 
-### INFM700 - Information Architecture
-
-### INST447 - Data 
-
-### INST126 - Introduction to Programming
-
-
-
+### Additional Courses
+I have tought these courses in the past, but now they are taught by my fantastic 
+colleagues. I particular enjoy teaching the introduction to programming because there 
+are so many opportunities for students to have "aha" moments.
+ - INST126 Introduction to Programming for Information Professionals
+ - INST327 Database Design and Modeling
+ - INST377 Dynamic Web Applications
