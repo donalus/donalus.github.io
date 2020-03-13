@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Amateur Radio: K3CUU
+title: K3CUU and Amateur Radio
 permalink: /k3cuu/
 ---
-## Amateur Radio: K3CUU
+
+## K3CUU and Amateur Radio
 
 Among my hobbies, I am an amateur radio operator. I have the callsign, K3CUU. This is a 
 vanity call that I chose when I upgraded to General from Technical (where I was KB3NDF). 
@@ -26,9 +27,6 @@ desk.
 I finally live on a property where I can have a real antenna. I have a Carolina Windom that
 runs north/south on my property and seems to do fine business. 
 
-73,
-K3CUU
-
-
+73, K3CUU
 
 [junior_op]: /assets/img/junior_operator.png
