@@ -37,7 +37,7 @@ plugins:
 
 logo: /assets/img/donal_square.jpg
 
-google_analytics: "UA-49219513-1"
+# google_analytics: "UA-49219513-1"
 show_downloads:   "no"
 
 # Gems
