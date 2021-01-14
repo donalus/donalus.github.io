@@ -37,7 +37,6 @@ plugins:
 
 logo: /assets/img/donal_square.jpg
 
-# google_analytics: "UA-49219513-1"
 show_downloads:   "no"
 
 # Gems
@@ -45,7 +44,7 @@ gems:
   - jekyll-paginate
 
 #Others
-markdown: kramdown
+markdown: GML
 
 # Exclude from processing.
 # The following items will not be processed, by default.
