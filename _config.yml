@@ -23,7 +23,9 @@ tagline:      Instructor and Technologist
 description: >- # this means to ignore newlines until "baseurl:"
   Donal Heidenblad is an instructor and technologist with a focus on data.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://donal.us" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
+highlighter: rouge
 twitter_username: donal_h
 github_username: donalus
 paginate:     1
