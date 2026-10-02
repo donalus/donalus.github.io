@@ -1,0 +1,50 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Install Seite
+        env:
+          VERSION: v0.20.0
+          INSTALL_DIR: ${{ runner.temp }}/seite-bin
+          SEITE_TELEMETRY: "0"
+        run: |
+          curl -fsSL https://seite.sh/install.sh -o "$RUNNER_TEMP/seite-install.sh"
+          sh "$RUNNER_TEMP/seite-install.sh"
+          echo "$INSTALL_DIR" >> "$GITHUB_PATH"
+      - name: Check site
+        run: seite check --strict
+      - name: Build site
+        run: seite build --strict
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy site
+        id: deployment
+        uses: actions/deploy-pages@v4

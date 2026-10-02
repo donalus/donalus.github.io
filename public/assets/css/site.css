@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono:400,700');
+
+* { box-sizing: border-box; }
+html { font-size: 16px; }
+body { margin: 0; color: #333; background: #fff; font: 1rem/1.5 'Overpass Mono', monospace; }
+img { max-width: 100%; height: auto; }
+a { color: #0086b3; text-decoration: none; border-bottom: 2px solid transparent; }
+a:hover, a:focus-visible { border-bottom-color: currentColor; }
+.container { width: min(100%, 800px); margin-inline: auto; padding: 1.5rem; }
+.site-header { border-bottom: 1px solid #e0e0e0; margin-bottom: .75rem; }
+.nav { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; min-height: 80px; }
+.logo { color: #000; font-size: 1.25rem; font-weight: 400; letter-spacing: .8px; white-space: nowrap; }
+.logo span { font-weight: 700; }
+.navbar { display: flex; gap: 1.2rem; list-style: none; padding: 0; margin: 0; }
+.intro .container { padding-bottom: 0; }
+.lead { margin: 0; font-size: 1.15rem; }
+.category-title { margin: 1rem 0 .5rem; }
+.post-item { display: flex; flex-direction: row-reverse; justify-content: space-between; gap: 1rem; margin-bottom: .2rem; }
+.post-item .article-title { flex: 1; }
+.post-meta { color: #888; text-transform: uppercase; letter-spacing: 1px; font-size: .875rem; }
+.date-label { white-space: nowrap; }
+.post-title { margin-top: 0; color: #333; }
+.page-title { margin-top: 0; }
+.post-content a, .page-content a, .post-item a { color: #000; }
+.site-footer { margin-top: 2rem; border-top: 1px solid #e0e0e0; }
+.site-footer small { color: #666; }
+.site-footer a { color: inherit; }
+pre { overflow-x: auto; padding: 1rem; background: #f5f5f5; }
+code { font-family: inherit; }
+blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #ccc; }
+@media (max-width: 520px) {
+  .nav { flex-direction: column; align-items: flex-start; gap: .3rem; }
+  .post-item { display: block; }
+  .date-label { display: block; }
+}

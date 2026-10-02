@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}{{ site.title }} | {{ site.description }}{% endblock %}
+{% block content %}
+<section class="intro">
+  <div class="container lead">{{ page.content | safe }}</div>
+</section>
+<section class="post-list">
+  <div class="container">
+    {% set_global previous_year = "" %}
+    {% for collection in collections %}
+      {% for item in collection.items %}
+        {% set year = item.date | date(format="%Y") %}
+        {% if year != previous_year %}<h2 class="category-title">{{ year }}</h2>{% endif %}
+        <article class="post-item">
+          <time class="post-meta date-label" datetime="{{ item.date }}">{{ item.date | date(format="%b %d") }}</time>
+          <div class="article-title"><a href="{{ item.url }}">{{ item.title }}</a></div>
+        </article>
+        {% set_global previous_year = year %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

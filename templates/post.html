@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} | {{ site.title }}{% endblock %}
+{% block content %}
+<article class="post container" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="post-header">
+    <p class="post-meta"><time datetime="{{ page.date }}" itemprop="datePublished">{{ page.date | date(format="%b %-d, %Y") }}</time></p>
+    <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+  </header>
+  <div class="post-content" itemprop="articleBody">{{ page.content | safe }}</div>
+</article>
+{% endblock %}
