@@ -1,0 +1,9 @@
+{
+  "version": "0.20.0",
+  "agents": [
+    "codex"
+  ],
+  "hooks_installed": [
+    "codex"
+  ]
+}

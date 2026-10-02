@@ -1,3 +1,5 @@
 dist/
 
 Thumbs.db
+
+/dist-subdomains
