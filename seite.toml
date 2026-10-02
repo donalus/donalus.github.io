@@ -1,0 +1,34 @@
+[site]
+title = "Donal Heidenblad"
+description = "Donal is a data engineer, tech generalist, and educator"
+base_url = "https://donal.us"
+language = "en"
+author = "Donal Heidenblad"
+
+[[collections]]
+name = "posts"
+label = "Blog"
+directory = "posts"
+has_date = true
+has_rss = true
+listed = true
+url_prefix = "/posts"
+default_template = "post.html"
+
+[[collections]]
+name = "pages"
+label = "Pages"
+directory = "pages"
+has_date = false
+has_rss = false
+listed = false
+url_prefix = ""
+default_template = "page.html"
+
+[build]
+output_dir = "dist"
+minify = true
+
+[deploy]
+target = "github-pages"
+auto_commit = false
